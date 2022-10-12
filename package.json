@@ -2,6 +2,7 @@
     "name":"my-new-node-projec",
     "version": "1.0.0",
     "dependencies": {
-        "prompt-choices":"4.0.5"
+        "prompt-choices":"4.0.5",
+        "d3-interpolate":"1.4.0"
     }
 }
