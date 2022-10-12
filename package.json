@@ -3,6 +3,6 @@
     "version": "1.0.0",
     "dependencies": {
         "prompt-choices":"4.0.5",
-        "d3-interpolate":"1.4.0"
+        "d3-interpolate":"3.0.0"
     }
 }
