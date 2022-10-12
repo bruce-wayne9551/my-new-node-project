@@ -1,4 +1,7 @@
 {
     "name":"my-new-node-projec",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "dependencies": {
+        "prompt-choices":"4.0.5"
+    }
 }
